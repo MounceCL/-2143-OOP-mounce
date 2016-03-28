@@ -2,13 +2,13 @@
 | #       | Item                                                       | Value       | Earned   |                |
 |:--------|:-----------------------------------------------------------|:------------|:---------|:---------------|
 | ***1*** | ***General***                                              |             |          | ![Alt text][2] |
-| -       | Code was on github                                         | pass/fail   |    pass      | ![Alt text][2] |
-| -       | Code could be ran.                                         | pass/fail   |    barely      | ![Alt text][2] |
-| -       | Code was commented                                         |    20       |    20    | ![Alt text][2] |
+| -       | Code was on github                                         | pass/fail   |    pass      | ![Alt text][1] |
+| -       | Code could be ran.                                         | pass/fail   |    barely      | ![Alt text][3] |
+| -       | Code was commented                                         |    20       |    20    | ![Alt text][1] |
 | -       | Followed naming conventions (named your file correctly).   |            |         | ![Alt text][2] |
 |         |      Classname: asciiShop                                  |    3       |     0   | ![Alt text][2] |
 |         |     Foldername: AsciiShop for all your files.              |    3       |     0   | ![Alt text][2] |   
-|         |     Renamed asciiArtClass.py to asciiShop.py               |    4       |     3   | ![Alt text][2] |
+|         |     Renamed asciiArtClass.py to asciiShop.py               |    4       |     3   | ![Alt text][1] |
 | ***2*** | ***Flip Method***                                          |             |          | ![Alt text][2] |
 | -       | worked                                                     |    30       |    0    | ![Alt text][2] |
 | -       | could choose the direction                                 |    10        |    0     | ![Alt text][2] |
